@@ -1,6 +1,6 @@
 # AutoTrack
 
-<img width="957" alt="Screenshot 2023-05-10 at 13 01 17" src="https://github.com/cheapcrapcommunity/autoTrack/assets/76624368/5922d867-c1a1-4bbb-87ea-28922064df0c">
+![image](https://github.com/cheapcrapcommunity/autoTrack/assets/76624368/ed352ab5-c06f-48de-90aa-13e77bec0045)
 
 ## Overview
 AutoTrack is an advanced Max patch, executing real-time video analysis and concurrently synthesizing correlated, multi-layered soundscapes. 
@@ -26,6 +26,6 @@ Work with MIRA: Connect MIRA using tablets(ipad tested).
 Federico Foderaro's a series of tutorials that provided guidance on translating shaders from the Shadertoy platform into the Max environment.
 
 ## Demos links
-Waiting for upload..
+https://youtu.be/yJHJG_SMwbg
 
 
