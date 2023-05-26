@@ -17,6 +17,9 @@ Download the 'patch' file and double click the 'autoTrack' patch within it.
 
 Work with MIRA: Connect MIRA using tablets(ipad tested).
 
+![image](https://github.com/cheapcrapcommunity/autoTrack/assets/76624368/4716c0b1-c3ce-4c0c-ba37-fc29ccb32c9e)
+
+
 ## Reference
 Federico Foderaro's a series of tutorials that provided guidance on translating shaders from the Shadertoy platform into the Max environment.
 
