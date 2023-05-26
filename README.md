@@ -14,6 +14,7 @@ Programming environment is Max/MSP/Jitter, with external packages including cv.j
 
 ## How to execute
 Download the 'patch' file and double click the 'autoTrack' patch within it.
+
 Work with MIRA: Connect MIRA using tablets(ipad tested).
 
 ## Reference
