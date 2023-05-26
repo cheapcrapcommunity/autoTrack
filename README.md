@@ -1,5 +1,7 @@
 # AutoTrack
 
+<img width="957" alt="Screenshot 2023-05-10 at 13 01 17" src="https://github.com/cheapcrapcommunity/autoTrack/assets/76624368/5922d867-c1a1-4bbb-87ea-28922064df0c">
+
 ## Overview
 AutoTrack is an advanced Max patch, executing real-time video analysis and concurrently synthesizing correlated, multi-layered soundscapes. 
 It allows users to manipulate these layers during the generation process. This programme fosters a dynamic and customizable audio-visual correlation.
