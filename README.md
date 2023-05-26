@@ -6,6 +6,7 @@ It allows users to manipulate these layers during the generation process. This p
 
 ## Dataflow
 Video analysis encompasses several aspects that are commonly employed in the field. These aspects include color picking and tracking, blob tracking, distance transform calculation, and matrix histogram calculation.
+
 <img width="392" alt="Screenshot 2023-05-26 at 17 45 03" src="https://github.com/cheapcrapcommunity/autoTrack/assets/76624368/2a112525-f546-4677-b5ba-ee50bbe37d99">
 
 ## Environment and extra packages
