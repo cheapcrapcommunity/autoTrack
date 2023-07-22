@@ -1,10 +1,11 @@
 # AutoTrack
-
-![image](https://github.com/cheapcrapcommunity/autoTrack/assets/76624368/ed352ab5-c06f-48de-90aa-13e77bec0045)
-
 ## Overview
 AutoTrack is an advanced Max patch, executing real-time video analysis and concurrently synthesizing correlated, multi-layered soundscapes. 
 It allows users to manipulate these layers during the generation process. This programme fosters a dynamic and customizable audio-visual correlation.
+
+![image](https://github.com/cheapcrapcommunity/autoTrack/assets/76624368/ed352ab5-c06f-48de-90aa-13e77bec0045)
+
+
 
 ## Dataflow
 Video analysis encompasses several aspects that are commonly employed in the field. These aspects include color picking and tracking, blob tracking, distance transform calculation, and matrix histogram calculation.
